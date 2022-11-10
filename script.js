@@ -17,6 +17,12 @@ function generatePassword() {
   var specialChar = confirm (' Do you want to include special characters in your password?');
 
 }
+// Including If statement  that at least one character should be selected
+if (!(lowerCase || upperCase ||  numeric || specialChar )) {
+  alert ( 'You must choose at least one character');
+  return;
+};
+
 
 
 
