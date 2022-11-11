@@ -7,6 +7,10 @@ A new, secure password is generated when the button is clicked. Then you are pre
 WHEN the password is generated it is written to the page.
 The challenge helps to undestand the core skills of JavaScript: functions, loops, querySelector,addEventListener.
 
+![The screenshot of the page](/Screenshot%20of%20Page.png?raw=true)
+
+Link: https://zairabarry.github.io/Challenge-3/
+
 ## Installation
 
 N/A
