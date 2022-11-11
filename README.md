@@ -9,7 +9,7 @@ The challenge helps to undestand the core skills of JavaScript: functions, loops
 
 ![The screenshot of the page](/Screenshot%20of%20Page.png?raw=true)
 
-Link: https://zairabarry.github.io/Challenge-3/
+Link: https://zairabarry.github.io/Random-Password-Generator/
 
 ## Installation
 
